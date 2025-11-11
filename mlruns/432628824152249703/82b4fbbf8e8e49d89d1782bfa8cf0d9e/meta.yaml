@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/maodi/Documents/ml_final_project/mlruns/432628824152249703/82b4fbbf8e8e49d89d1782bfa8cf0d9e/artifacts
+end_time: 1762892967002
+entry_point_name: ''
+experiment_id: '432628824152249703'
+lifecycle_stage: active
+run_id: 82b4fbbf8e8e49d89d1782bfa8cf0d9e
+run_name: SupportVectorMachine
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762892966953
+status: 3
+tags: []
+user_id: maodi

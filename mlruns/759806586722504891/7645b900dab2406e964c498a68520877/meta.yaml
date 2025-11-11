@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/maodi/Documents/ml_final_project/mlruns/759806586722504891/7645b900dab2406e964c498a68520877/artifacts
+end_time: 1762892966859
+entry_point_name: ''
+experiment_id: '759806586722504891'
+lifecycle_stage: active
+run_id: 7645b900dab2406e964c498a68520877
+run_name: RandomForestClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762892966628
+status: 3
+tags: []
+user_id: maodi
